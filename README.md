@@ -1,0 +1,1 @@
+"# cviceni-vyplata-pomoci-funkci" 
